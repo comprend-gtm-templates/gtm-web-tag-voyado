@@ -15,5 +15,5 @@
 homepage: "https://www.comprend.com"
 documentation: "https://github.com/comprend-gtm-templates/gtm-template-voyado"
 versions:
-  - sha: 1e0f32aa38074ab02a7b3d483507180abbc12eac
+  - sha: 319f53cd7903bf3255a48ed848fcffd9cb99dfc3
     changeNotes: Initial release
