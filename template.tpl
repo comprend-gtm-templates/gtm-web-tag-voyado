@@ -14,7 +14,11 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Voyado Engage",
-  "categories": ["EMAIL_MARKETING", "PERSONALIZATION"],
+  "categories": [
+    "ANALYTICS",
+    "MARKETING",
+    "EMAIL_MARKETING",
+  ],
   "brand": {
     "id": "comprend",
     "displayName": "Comprend",
