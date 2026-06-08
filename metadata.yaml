@@ -13,7 +13,11 @@
 # limitations under the License.
 
 homepage: "https://www.comprend.com"
-documentation: "https://github.com/comprend-gtm-templates/gtm-template-voyado"
+documentation: "https://github.com/comprend-gtm-templates/voyado-engage"
 versions:
+  - sha: 5b0f607718539f154b80dc87aa3a5c8676a9706d
+    changeNotes: |-
+      - Update template categories.
+      - Agree to the Community Template Gallery Terms of Service.
   - sha: 319f53cd7903bf3255a48ed848fcffd9cb99dfc3
     changeNotes: Initial release
